@@ -8,6 +8,7 @@ public class ServiceController {
 	public static void main(String[] args) {
 		Operation op = new Operation();
 		while(true) {
+			System.out.println("Class Management collection java project ");
 			System.out.println("1. Add course");
 			System.out.println("2. Show course");
 			System.out.println("3. Add Faculty");

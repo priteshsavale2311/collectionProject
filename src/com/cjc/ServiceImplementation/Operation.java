@@ -19,7 +19,6 @@ public class Operation implements ServiceInt {
 	Scanner sc = new Scanner(System.in) ;
 	@Override
 	public void addCourse() {
-		System.out.println("Enter how many courses you want to add : ");
 		int total = sc.nextInt();
 		for(int i=0;i<total;i++) {
 			Course c = new Course();

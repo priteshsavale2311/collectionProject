@@ -19,8 +19,8 @@ public class ServiceController {
 			System.out.println("4. Show Faculty");
 			System.out.println("5. Add Batch");
 			System.out.println("6. Show Batch");
-			System.out.println("7. Add Sudent");
-			System.out.println("8. Show Student");
+			System.out.println("7. Add Sudent display ");
+			System.out.println("8. Show Student display");
 			Scanner sc = new  Scanner(System.in);
 			int ch= sc.nextInt();
 			

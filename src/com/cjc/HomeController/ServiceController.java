@@ -16,6 +16,7 @@ public class ServiceController {
 			System.out.println("1. Add course");
 			System.out.println("2. Show course");
 			System.out.println("3. Add Faculty");
+			System.out.println("3. Add Faculty");
 			System.out.println("4. Show Faculty");
 			System.out.println("5. Add Batch");
 			System.out.println("6. Show Batch");
